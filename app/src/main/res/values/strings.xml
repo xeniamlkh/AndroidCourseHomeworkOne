@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">HomeworkOne</string>
+    <string name="check_if_you_re_human">Check if you\'re human</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="show_password">Show password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="super_app">Super app</string>
+    <string name="questionnaire">questionnaire</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_internal_passport_id">Enter your internal passport ID</string>
+    <string name="enter_today_s_date">Enter today\'s date</string>
+    <string name="please_change_your_password">Please change your password</string>
+    <string name="old_password">Old password:</string>
+    <string name="new_password">New password:</string>
+    <string name="password">password</string>
+    <string name="your_calendar">Your calendar</string>
 </resources>
